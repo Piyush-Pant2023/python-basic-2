@@ -2,4 +2,4 @@ for i in range(10):
     if(i%2==0):
         print(i,"no is even")
 else:
-    print(i,"no is odd")
+    print(i,"no is odd")z
